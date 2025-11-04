@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "name": "My_AI_Focus",
+    "description": "Stay focused with AI-powered Focus Chrome extension",
+    "version":"1.0",
+    "action": {
+        "default_popup":"popup.html",
+        "default_title":"AI Focus"
+    }
+}
